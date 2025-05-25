@@ -1,2 +1,2 @@
 # GTBetting
-Projeto com React + Vite para deploy funcional na Vercel.
+Versão final pronta para subir no GitHub e publicar na Vercel.
