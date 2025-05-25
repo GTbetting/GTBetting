@@ -1,2 +1,2 @@
 # GTBetting
-Projeto com React + Vite + Supabase + Stripe
+Projeto base com React + Vite para deploy imediato na Vercel.
