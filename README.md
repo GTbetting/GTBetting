@@ -1,2 +1,2 @@
 # GTBetting
-Versão corrigida para funcionar perfeitamente na Vercel.
+Versão final ajustada para deploy 100% na Vercel.
