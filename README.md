@@ -1,1 +1,1 @@
-# GTBetting - Versão final com build corrigido
+# GTBetting - Projeto pronto para deploy no GitHub + Vercel
